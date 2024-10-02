@@ -16,6 +16,7 @@ body {
 
 .table td {
     vertical-align: middle;
+    background-color: transparent;
 }
 
 .table {
@@ -103,7 +104,6 @@ table {
 .table td {
     width: fit-content;
     text-align: center;
-    background-color: transparent;
 }
 
 .table th:nth-child(1),
